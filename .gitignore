@@ -1,0 +1,4 @@
+node_modules
+daily-report.csv
+weekly-report.csv
+.env
